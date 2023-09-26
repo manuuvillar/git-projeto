@@ -20,3 +20,8 @@ OI, esse projeto ensina você a usar o git :)
 
 <> git add .
 -> todos os arquivos da pasta vão para área de "aguardo"
+-> 2 passo: git commit -m 'comentario'
+-> 3 passo: git push origin main
+
+<> git checkout -b 'novo codigo'
+-> sair na main e desenvolver na branch 'novo codigo', tudo que eu fizer de alteração vai ser apenas alterada na branch 'novo codigo' e nao no main
