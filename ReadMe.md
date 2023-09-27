@@ -38,5 +38,13 @@ OI, esse projeto ensina você a usar o git :)
 -> !! este codigo tem que ser feito enquanto estiver na branch main
 1 passo: git push origin main
 
+-----------------> abrir o repositorio de outra pessoa
+
 <> git clone https://github.com/rafaballerini/GitTutorial.git
 -> buscar o repositorio de outra pessoa
+
+<> cd GitTutorial
+-> para entrar na pasta/repositório da pessoa
+
+<> git pull
+-> atualizar o repositorio da pessoa no meu pc
